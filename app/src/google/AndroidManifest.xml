@@ -2,9 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="net.vonforst.evmap">
-    
-    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
-    <uses-permission android:name="android.permission.ACCESS_BACKGROUND_LOCATION" />
+
+<uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
 
     <uses-sdk tools:overrideLibrary="com.google.android.libraries.car.app" />
 
